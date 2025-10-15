@@ -1,10 +1,17 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "/Sensores/SEN_FRONT_I_CONN",
+      "/Sensores/EMI_FRONT_I_CONN",
+      "/Sensores/GND_FI",
+      "/Sensores/3.3_FI",
+      "Net-(LED_IR4-A)",
+      "Net-(LED_IR4-K)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
